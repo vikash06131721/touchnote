@@ -1,0 +1,11 @@
+Cython==0.29.21
+flask-restplus==0.13.0
+flask==0.12.2
+werkzeug==0.16.1
+flask_cors==3.0.6
+boto3==1.16.40
+nltk==3.5
+pandas==0.25.3
+numpy==1.19.4
+scikit-learn==0.21.3
+nlpaug==1.1.2
